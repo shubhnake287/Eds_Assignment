@@ -1,0 +1,61 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "Employees": [
+    {
+      "empNo": 1,
+      "name": "sanket",
+      "last": "Nannure"
+    },
+    {
+      "empNo": 2,
+      "name": "akash",
+      "last": "Thakre"
+    },
+    {
+      "empNo": 3,
+      "name": "shyam",
+      "last": "sundar"
+    },
+    {
+      "empNo": 4,
+      "name": "rohit",
+      "last": "patil"
+    },
+    {
+      "empNo": 5,
+      "name": "shubham",
+      "last": "singh"
+    },
+    {
+      "empNo": 6,
+      "name": "rohit",
+      "last": "krit"
+    },
+    {
+      "empNo": 7,
+      "name": "ankay",
+      "last": "bam"
+    },
+    {
+      "empNo": 8,
+      "name": "ashish",
+      "last": "sharma"
+    },
+    {
+      "empNo": 9,
+      "name": "shankar",
+      "last": "lad"
+    },
+    {
+      "empNo": 10,
+      "name": "shipad",
+      "last": "suresh"
+    }
+  ]
+}
